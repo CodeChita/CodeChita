@@ -18,7 +18,7 @@ Technologies:
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='Canvas' src='https://img.shields.io/badge/-Canvas-E05F2C?logo=Canvas&logoColor=white&style=plastic' />
-<img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=NodeJs&logoColor=white&style=plastic' />
+<img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=nodejs&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
